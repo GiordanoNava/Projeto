@@ -1,0 +1,53 @@
+body{
+	background-image: url(https://images4.alphacoders.com/637/637162.jpg);
+}
+
+h2{
+	font-family: Arial;
+	text-align: center;
+		
+
+}
+
+#formulario{
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	color: rgb(253, 250, 250);
+	
+	}
+label{
+	position: relative;
+	font-family: Arial;
+	font-weight: bold;
+	
+}
+#boxform{
+border: 8px solid #7c7cd1;
+padding: 8px;
+background-color: rgb(102, 177, 247);
+
+	
+}
+#boxform input{
+		position: relative;
+		float: right;
+		width: 200px;
+}
+
+#descricao textarea{
+		position: relative;
+		width: 200px;
+
+
+}
+
+
+button{
+	width: 75px;
+	height: 35px;
+	font-family: Arial;
+	font-size: 12px;
+	font-weight: bold;
+	border-color: royalblue;
+}
